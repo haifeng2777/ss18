@@ -27,7 +27,7 @@
       "key": "直播转点播2",
       "name": "📛TH┃福利点播",
       "type": 3,
-      "api": "https://agit.ai/haifeng2777/TVB/raw/branch/master/lib/%e7%9b%b4%e6%92%ad%e8%bd%ac%e7%82%b9%e6%92%ad3.js",
+      "api": "http://152.32.170.60/haifeng2777/TVB/raw/branch/master/lib/%e7%9b%b4%e6%92%ad%e8%bd%ac%e7%82%b9%e6%92%ad3.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/haifeng2777/ss18/main/dbiptv69.json"
     },
     {
@@ -71,8 +71,8 @@
       "changeable": 1,
       "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
     },
-{"key":"csp_xBPQ_新香蕉实时直播","name":"新香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/124537064/gao/raw/branch/master/xBPQ/新香蕉实时直播.json","jar":"https://agit.ai/124537064/gao/raw/branch/master/JAR/Yoursmile2.jar"},
-{"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/haifeng2777/gao1/raw/branch/master/xBPQ/%e6%96%b0%e9%a6%99%e8%95%89AV%e8%a7%a3%e8%af%b4.json","jar":"https://agit.ai/124537064/gao/raw/branch/master/JAR/Yoursmile2.jar"},    
+{"key":"csp_xBPQ_新香蕉实时直播","name":"新香蕉实时直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://152.32.170.60/124537064/gao/raw/branch/master/xBPQ/新香蕉实时直播.json","jar":"https://agit.ai/124537064/gao/raw/branch/master/JAR/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉AV解说","name":"新香蕉AV解说","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://152.32.170.60/haifeng2777/gao1/raw/branch/master/xBPQ/%e6%96%b0%e9%a6%99%e8%95%89AV%e8%a7%a3%e8%af%b4.json","jar":"https://agit.ai/124537064/gao/raw/branch/master/JAR/Yoursmile2.jar"},    
     
     {
       "key": "chengren",
