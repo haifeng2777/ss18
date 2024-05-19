@@ -93,9 +93,10 @@
     },
     {
       "key": "博天堂",
-      "name": "🈵成人影视3",
+      "name": "🈵博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
+      "playUrl": "https://www.kuaikanys.net/jiexi/jiekou-1/?url=",
       "searchable": 0,
       "quickSearch": 0
     },
